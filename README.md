@@ -17,3 +17,6 @@
   - Интеграции
 - Системная-аналитика
 - Бизнес-логика 
+## ЧТОБЫ СМОТРЕТЬ НА КАРТИНКИ, А НЕ НА КОД PLANTUML 
+https://chromewebstore.google.com/detail/pegmatite/jegkfbnfbfnohncpcfcimepibmhlkldo?pli=1
+Или можете переходить по ссылкам на PLANTUMLONLINEEDITOR
